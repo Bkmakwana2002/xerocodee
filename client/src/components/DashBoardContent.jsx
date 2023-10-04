@@ -8,10 +8,6 @@ import bitbucket from '../assets/bitbucket.png'
 import mongo from '../assets/mongo.png'
 import redis from '../assets/redis.png'
 import sql from '../assets/sql.png'
-import {
-  Animate,
-  initTE,
-} from "tw-elements";
 
 
 
