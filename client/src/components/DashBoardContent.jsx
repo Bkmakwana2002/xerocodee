@@ -13,7 +13,6 @@ import sql from '../assets/sql.png'
 
 const DashBoardContent = () => {
   const [isChecked, setIsChecked] = useState(false);
-  initTE({ Animate });
 
   const user_data = localStorage.getItem('user')
   //console.log(user)
